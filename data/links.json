@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "links": [
+    {
+      "id": "96dbb80e-854e-4360-b139-61e60c472558",
+      "token": "dn-kq8spiKQkQBYC_eEeDOIMPrF9bOo5",
+      "passwordHash": "$2b$12$PW6L2kS8VPqDTJ6MkrFCAeLz24ce17lzcCrtL5JVwrTGQR0/b2glO",
+      "userId": "demo-user",
+      "createdAt": "2026-03-06T00:43:02.245Z",
+      "expiresAt": "2026-03-06T01:43:02.245Z",
+      "deletedAt": null,
+      "meta": {
+        "targetUrl": "https://example.com",
+        "note": "demo"
+      },
+      "stats": {
+        "accessCount": 2,
+        "lastAccessAt": "2026-03-06T00:44:21.761Z",
+        "failedAttempts": 1,
+        "lockedUntil": null
+      }
+    },
+    {
+      "id": "332847f2-d45f-4079-9f7b-6ed8ba1ceca5",
+      "token": "njdiMk1Mswr5vu6fcBAtTtToXdSNyn1n",
+      "passwordHash": "$2b$12$jPVKjx0pmwFfZ8KpxeZATeO2VVQ97oqtCRFY2MXyqLFOG2rdcZkVi",
+      "userId": "ui-test",
+      "createdAt": "2026-03-06T00:48:59.578Z",
+      "expiresAt": "2026-03-06T01:48:59.578Z",
+      "deletedAt": null,
+      "meta": {
+        "targetUrl": "https://example.com",
+        "note": "manual test"
+      },
+      "stats": {
+        "accessCount": 0,
+        "lastAccessAt": null,
+        "failedAttempts": 0,
+        "lockedUntil": null
+      }
+    },
+    {
+      "id": "a035a4fc-8b18-48f9-a039-12999bd97d8a",
+      "token": "ykkVNKHzA5Ebc3839VpLDT5wv6a5BUSY",
+      "passwordHash": "$2b$12$ZKbYQJryGcYh6emKqz2Kqeth2ltMy7zSdLEOzBqelPrLpsxVZmtMq",
+      "userId": "ui",
+      "createdAt": "2026-03-06T00:50:48.472Z",
+      "expiresAt": "2026-03-06T01:50:48.472Z",
+      "deletedAt": null,
+      "meta": {
+        "targetUrl": "https://example.com",
+        "note": "generated from /"
+      },
+      "stats": {
+        "accessCount": 0,
+        "lastAccessAt": null,
+        "failedAttempts": 0,
+        "lockedUntil": null
+      }
+    },
+    {
+      "id": "1345a57c-6fd5-41cc-a3a3-10c79dc9f936",
+      "token": "E_SPWybNLdfGEYztgkom-IXjszuT-_ZI",
+      "passwordHash": "$2b$12$n4yTNA0iyXPbLIn7WyPdV.l6SciuF1lHEKpy.wwKi4gnlAe9M1QEi",
+      "userId": "ui",
+      "createdAt": "2026-03-06T00:50:57.396Z",
+      "expiresAt": "2026-03-06T01:50:57.396Z",
+      "deletedAt": null,
+      "meta": {
+        "targetUrl": "https://example.com",
+        "note": "generated from /"
+      },
+      "stats": {
+        "accessCount": 0,
+        "lastAccessAt": null,
+        "failedAttempts": 0,
+        "lockedUntil": null
+      }
+    },
+    {
+      "id": "51a67919-7c13-46ca-a2f7-abf95b5aa498",
+      "token": "IO6IX3ojUMIxZV5dMsr06HyeIy18vGZo",
+      "passwordHash": "$2b$12$N9HVCJNnK8nHQ/fibetD6OGGMBxcTeWJgM11T2a6/zPW.w9MhvEJe",
+      "userId": "ui",
+      "createdAt": "2026-03-06T00:51:34.673Z",
+      "expiresAt": "2026-03-06T01:51:34.673Z",
+      "deletedAt": null,
+      "meta": {
+        "targetUrl": "https://example.com",
+        "note": "generated"
+      },
+      "stats": {
+        "accessCount": 0,
+        "lastAccessAt": null,
+        "failedAttempts": 0,
+        "lockedUntil": null
+      }
+    },
+    {
+      "id": "97950fee-c9b4-4962-8918-bd55f255ccad",
+      "token": "UfLsv8Y7UiTWLRD6yzzPQMPvekmmwzsi",
+      "passwordHash": "$2b$12$8CKxhbviIMHzptsQBBbf1.t0ei0RynqsSp/1Y/lTPLUr1D2PM5iFW",
+      "userId": "ui",
+      "createdAt": "2026-03-06T00:53:55.841Z",
+      "expiresAt": "2026-03-06T01:53:55.841Z",
+      "deletedAt": null,
+      "meta": {
+        "targetUrl": "https://example.com",
+        "note": "generated from /"
+      },
+      "stats": {
+        "accessCount": 1,
+        "lastAccessAt": "2026-03-06T00:54:03.152Z",
+        "failedAttempts": 0,
+        "lockedUntil": null
+      }
+    }
+  ]
+}
